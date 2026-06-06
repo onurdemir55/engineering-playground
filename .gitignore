@@ -1,11 +1,11 @@
 # Gradle
-.gradle/
-build/
+.gradle/*
+*build/
 *.jar
 !gradle/wrapper/gradle-wrapper.jar
 
 # IDE
-.idea/
+.idea/*
 *.iml
 
 # OS
