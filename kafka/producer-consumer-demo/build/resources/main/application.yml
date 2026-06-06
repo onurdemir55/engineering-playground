@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: producer-consumer-demo
+  kafka:
+    bootstrap-servers: localhost:9092
